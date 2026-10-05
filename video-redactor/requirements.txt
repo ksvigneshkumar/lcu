@@ -4,3 +4,10 @@ presidio-anonymizer
 spacy
 selenium
 webdriver-manager
+streamlit
+soundcard
+soundfile
+fer
+opencv-python-headless
+numpy
+python-dotenv
