@@ -1,0 +1,6 @@
+faster-whisper
+presidio-analyzer
+presidio-anonymizer
+spacy
+selenium
+webdriver-manager

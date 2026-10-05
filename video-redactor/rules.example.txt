@@ -1,0 +1,14 @@
+# Types
+type:PERSON
+type:PHONE_NUMBER
+type:EMAIL_ADDRESS
+type:LOCATION
+type:CREDIT_CARD
+type:DATE_TIME
+
+# Exact words
+Apollo Hospital
+Room 204
+
+# Custom pattern (patient ID like PT-12345)
+regex:PT-\d{5}

@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output folders
+video-redactor/output/
+
+# Bot profile temp data
+video-redactor/bot_profile/
+
+# Media files
+*.mp4
+*.wav
+*.mp3
+*.mov
+*.mkv
+*.webm
+
+# Virtual environment (if any)
+venv/
+env/
+.env
+
+# MacOS/Windows hidden files
+.DS_Store
+Thumbs.db

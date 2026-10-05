@@ -1,0 +1,16 @@
+{
+  "types": [
+    "PERSON",
+    "PHONE_NUMBER",
+    "EMAIL_ADDRESS",
+    "LOCATION"
+  ],
+  "words": [
+    "Apollo Hospital",
+    "Room 204"
+  ],
+  "regex": [
+    "PT-\\d{5}"
+  ],
+  "replacement_style": "tag"
+}
